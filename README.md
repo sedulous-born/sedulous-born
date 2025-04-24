@@ -3,7 +3,7 @@
 <h3 align="center">A Passionate Full Stack MERN Developer 🚀</h3>
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHY0M2lvMHZtNDNlcWNtd2ZtMm10aWV4b3loejYwdm1teWJkZzBvZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="300"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd292Zm5zOTYyNDJqNHl2djN3MHEyMzBtYzZtNjZwZzNlczQwaHdvcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mbTHnmmuoj5mZLQqPB/giphy.gif" width="300"/>
 </p>
 
 ---
