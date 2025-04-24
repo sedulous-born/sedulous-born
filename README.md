@@ -6,10 +6,6 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHY0M2lvMHZtNDNlcWNtd2ZtMm10aWV4b3loejYwdm1teWJkZzBvZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="300"/>
 </p>
 
-<div align="center">
-  <img src="https://github.com/sedulous-born/sedulous-born/blob/output/github-snake-dark.svg" />
-</div>
-
 ---
 
 <!-- Quick Summary -->
@@ -20,6 +16,9 @@
 - ⚡ Fun fact: I love solving problems with clean code and cool UI/UX 🎨
 
 ---
+<div align="center">
+  <img src="https://github.com/sedulous-born/sedulous-born/blob/output/github-snake-dark.svg" />
+</div>
 
 <!-- Tech Stack Section -->
 <h2>🛠️ Tech Stack</h2>
