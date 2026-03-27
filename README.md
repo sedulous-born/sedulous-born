@@ -9,11 +9,11 @@
 ---
 
 <!-- Quick Summary -->
-- 🔭 I’m currently working on **Full-stack applications and scalable backend systems**
-- 🌱 I’m learning **Cloud architecture, DevOps, and advanced React patterns**
-- 💬 Ask me about **React, Node.js, MongoDB, Express, JavaScript, and REST APIs**
+- 🔭 I’m currently working on **AI-powered applications, agentic systems, and scalable full-stack platforms**
+- 🌱 I’m learning **LLM systems, cloud architecture, DevOps, and advanced React patterns**
+- 💬 Ask me about **AI engineering, RAG pipelines, React, Node.js, APIs, and system design**
 - 📫 How to reach me: **malleshgradu@gmail.com**
-- ⚡ Fun fact: I love solving problems with clean code and cool UI/UX 🎨
+- ⚡ Fun fact: I love building **intelligent systems with clean code and impactful UI/UX 🚀**
 
 ---
 <div align="center">
