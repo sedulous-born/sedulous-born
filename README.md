@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Naga</h1>
-<h3 align="center">Ai Product Builder and Software Developer 🚀</h3>
+<h3 align="center">AI Product Builder and Software Developer 🚀</h3>
 
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd292Zm5zOTYyNDJqNHl2djN3MHEyMzBtYzZtNjZwZzNlczQwaHdvcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mbTHnmmuoj5mZLQqPB/giphy.gif" width="300"/>
