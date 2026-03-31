@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Naga</h1>
-<h3 align="center">AI Product Builder and Software Developer 🚀</h3>
+<h3 align="center">Generative AI Engineer 🚀</h3>
 
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd292Zm5zOTYyNDJqNHl2djN3MHEyMzBtYzZtNjZwZzNlczQwaHdvcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mbTHnmmuoj5mZLQqPB/giphy.gif" width="300"/>
@@ -12,7 +12,6 @@
 - 🔭 I’m currently working on **AI-powered applications, agentic systems, and scalable full-stack platforms**
 - 🌱 I’m learning **LLM systems, cloud architecture, DevOps, and advanced React patterns**
 - 💬 Ask me about **AI engineering, RAG pipelines, React, Node.js, APIs, and system design**
-- 📫 How to reach me: **malleshgradu@gmail.com**
 - ⚡ Fun fact: I love building **intelligent systems with clean code and impactful UI/UX 🚀**
 
 ---
